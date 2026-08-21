@@ -7,8 +7,11 @@ Unlike older systems, Mindlink has zero external dependencies, relies purely on 
 
 ---
 ## Screenshots
-<img width="979" height="535" alt="image" src="https://github.com/user-attachments/assets/b3539b7f-b29e-4ebb-b876-ba95b79135e3" />
+<img width="1030" height="702" alt="Screenshot_20260821_153253" src="https://github.com/user-attachments/assets/a98cb7b3-6ef4-4ae7-b5f1-1ecc41a99923" />
+
 <img width="641" height="64" alt="image" src="https://github.com/user-attachments/assets/333f3c9b-6b46-4f42-a81c-be5b3116ce5c" />
+
+<img width="907" height="816" alt="Screenshot_20260821_153539" src="https://github.com/user-attachments/assets/7d08423d-7137-4d9a-a5b0-85ffcf501308" />
 
 
 ## Features
